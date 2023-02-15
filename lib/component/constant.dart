@@ -1,0 +1,3 @@
+
+ String? uid;
+ bool? onBord;
